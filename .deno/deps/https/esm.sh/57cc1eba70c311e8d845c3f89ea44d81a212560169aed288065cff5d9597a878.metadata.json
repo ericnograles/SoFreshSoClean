@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "vary": "Origin, Accept-Encoding",
+    "server": "cloudflare",
+    "last-modified": "Mon, 22 Aug 2022 16:10:18 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=JY5PA1iy3NxKFwDtA4N4uFGYmw2UG2MPbODJw3tPdGqgnfvozYI6z3LsI9yHW9YhJyYE7g3d8pOpEMXRhMSpoM15a3qL7NB1w2cwavgifJLa9l0LddtvDGs%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-cache-status": "HIT",
+    "date": "Sun, 04 Sep 2022 13:50:54 GMT",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "age": "539209",
+    "cf-ray": "745732644a758293-IAD",
+    "content-type": "text/javascript; charset=utf-8"
+  },
+  "url": "https://esm.sh/v92/style-vendorizer@2.2.3/deno/style-vendorizer.js",
+  "now": {
+    "secs_since_epoch": 1662299454,
+    "nanos_since_epoch": 146587172
+  }
+}

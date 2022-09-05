@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ePnkBe%2F9X03MF94FhstJoDuVpvFF1G5zoG3C7u5hjGd2xALOiv4wRf%2Fy3PdyAJXMaNi1JCGSsFHF9A2j0%2B8PUs5JS7Sbc%2FmH4nR%2Frs87%2FXcA%2B28chZ4Bgvs%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "date": "Sun, 04 Sep 2022 13:50:54 GMT",
+    "server": "cloudflare",
+    "cf-ray": "745732625f4d8293-IAD",
+    "content-type": "application/javascript; charset=utf-8",
+    "vary": "Origin, Accept-Encoding, User-Agent",
+    "cache-control": "public, max-age=3600",
+    "x-typescript-types": "https://esm.sh/v92/twind@0.16.17/sheets/sheets.d.ts"
+  },
+  "url": "https://esm.sh/twind@0.16.17/sheets",
+  "now": {
+    "secs_since_epoch": 1662299454,
+    "nanos_since_epoch": 62211377
+  }
+}

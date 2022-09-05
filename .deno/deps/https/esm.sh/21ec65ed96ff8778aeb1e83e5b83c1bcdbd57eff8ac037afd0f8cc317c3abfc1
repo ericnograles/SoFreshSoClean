@@ -1,0 +1,3 @@
+/* esm.sh - preact-render-to-string@5.2.1 */
+export * from "https://esm.sh/v92/preact-render-to-string@5.2.1/X-ZS9wcmVhY3Q/deno/preact-render-to-string.js";
+export { default } from "https://esm.sh/v92/preact-render-to-string@5.2.1/X-ZS9wcmVhY3Q/deno/preact-render-to-string.js";

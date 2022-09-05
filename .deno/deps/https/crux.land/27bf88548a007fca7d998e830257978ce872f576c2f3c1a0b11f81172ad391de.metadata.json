@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "location": "/api/get/uYQG.ts",
+    "vary": "Accept-Encoding",
+    "server": "deno/us-east1-c",
+    "date": "Sun, 04 Sep 2022 13:50:53 GMT"
+  },
+  "url": "https://crux.land/api/get/uYQG",
+  "now": {
+    "secs_since_epoch": 1662299454,
+    "nanos_since_epoch": 920092322
+  }
+}
