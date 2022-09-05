@@ -1,0 +1,13 @@
+import { OAuth2Client } from "oauth2";
+const oauth2Client = new OAuth2Client({
+    clientId: "<your client id>",
+    clientSecret: "<your client secret>",
+    authorizationEndpointUri: "https://github.com/login/oauth/authorize",
+    tokenUri: "https://github.com/login/oauth/access_token",
+    resourceEndpointHost: "https://api.github.com",
+    redirectUri: "http://localhost:8000/oauth2/callback",
+    defaults: {
+        scope: "read:user"
+    }
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvU29GcmVzaENvQ2xlYW4vcm91dGVzL2FwaS9vYXV0aC9bbmFtZV0udHN4Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IE9BdXRoMkNsaWVudCB9IGZyb20gXCJvYXV0aDJcIjtcblxuY29uc3Qgb2F1dGgyQ2xpZW50ID0gbmV3IE9BdXRoMkNsaWVudCh7XG4gIGNsaWVudElkOiBcIjx5b3VyIGNsaWVudCBpZD5cIixcbiAgY2xpZW50U2VjcmV0OiBcIjx5b3VyIGNsaWVudCBzZWNyZXQ+XCIsXG4gIGF1dGhvcml6YXRpb25FbmRwb2ludFVyaTogXCJodHRwczovL2dpdGh1Yi5jb20vbG9naW4vb2F1dGgvYXV0aG9yaXplXCIsXG4gIHRva2VuVXJpOiBcImh0dHBzOi8vZ2l0aHViLmNvbS9sb2dpbi9vYXV0aC9hY2Nlc3NfdG9rZW5cIixcbiAgcmVzb3VyY2VFbmRwb2ludEhvc3Q6IFwiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbVwiLFxuICByZWRpcmVjdFVyaTogXCJodHRwOi8vbG9jYWxob3N0OjgwMDAvb2F1dGgyL2NhbGxiYWNrXCIsXG4gIGRlZmF1bHRzOiB7XG4gICAgc2NvcGU6IFwicmVhZDp1c2VyXCIsXG4gIH0sXG59KTtcbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxTQUFTLFlBQVksUUFBUSxRQUFRLENBQUM7QUFFdEMsTUFBTSxZQUFZLEdBQUcsSUFBSSxZQUFZLENBQUM7SUFDcEMsUUFBUSxFQUFFLGtCQUFrQjtJQUM1QixZQUFZLEVBQUUsc0JBQXNCO0lBQ3BDLHdCQUF3QixFQUFFLDBDQUEwQztJQUNwRSxRQUFRLEVBQUUsNkNBQTZDO0lBQ3ZELG9CQUFvQixFQUFFLHdCQUF3QjtJQUM5QyxXQUFXLEVBQUUsdUNBQXVDO0lBQ3BELFFBQVEsRUFBRTtRQUNSLEtBQUssRUFBRSxXQUFXO0tBQ25CO0NBQ0YsQ0FBQyxBQUFDIn0=
