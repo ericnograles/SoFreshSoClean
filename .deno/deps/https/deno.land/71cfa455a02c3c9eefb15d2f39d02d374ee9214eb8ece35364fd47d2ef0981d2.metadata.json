@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "location": "/std@0.155.0/http/cookie.ts",
+    "x-deno-warning": "Implicitly using latest version (0.155.0) for https://deno.land/std/http/cookie.ts",
+    "date": "Sat, 10 Sep 2022 16:41:19 GMT",
+    "vary": "Accept-Encoding",
+    "server": "deno/us-west1-a",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/std/http/cookie.ts",
+  "now": {
+    "secs_since_epoch": 1662828079,
+    "nanos_since_epoch": 866727523
+  }
+}

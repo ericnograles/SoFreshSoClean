@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "server": "deno/us-central1-b",
+    "location": "/x/replit_database@v1.1/mod.ts",
+    "date": "Sat, 10 Sep 2022 11:39:25 GMT",
+    "access-control-allow-origin": "*",
+    "x-deno-warning": "Implicitly using latest version (v1.1) for https://deno.land/x/replit_database/mod.ts"
+  },
+  "url": "https://deno.land/x/replit_database/mod.ts",
+  "now": {
+    "secs_since_epoch": 1662809965,
+    "nanos_since_epoch": 830392803
+  }
+}

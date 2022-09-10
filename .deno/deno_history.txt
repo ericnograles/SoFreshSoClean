@@ -1,0 +1,2 @@
+#V2
+interface Auth0TokenResponse = {\n  accessToken: string;\n  tokenType: string;\n  refreshToken: string;\n  idToken: string;\n  expiresIn: number;\n  scope: Array<string>;\n}
